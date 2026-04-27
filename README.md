@@ -1,3 +1,5 @@
+Computer Science student at UIC with experience in C++, Python, and cybersecurity tools like Splunk SIEM. I enjoy building practical software solutions, from graph-based navigation systems to security automation workflows.
+
 ## Projects
 | Project | Description | Tech |
 |--------|-------------|------|
